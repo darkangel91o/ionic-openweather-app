@@ -24,8 +24,7 @@ As cards style has been widely adopted, Ionic OpenWeather App is using Ionic CSS
 
 ### [OpenWeatherMap Web API](http://openweathermap.org/api)
 
-Ionic OpenWeather App is fetching local weather based on geo location () from [OpenWeatherMap.org](http://openweathermap.org/), you
-can fetch your current local weather data using the longitude and latitude, the result would be like:
+Ionic OpenWeather App is fetching local weather based on geo location ({lat: 37.41, lng: -122.08}) from [OpenWeatherMap.org](http://openweathermap.org/), you can fetch your current local weather data using the longitude and latitude, the result would be like:
 
 ```javascript
 { "coord":   {"lon":-122.08, "lat":37.41},
